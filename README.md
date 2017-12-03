@@ -1,7 +1,7 @@
 # RP_Bubble
 Dynamics of acoustically driven bubbles arising from the Rayleigh-Plesset (RP) equation
 
-I wanted to create own solution data from a Rayleigh-Plesset equation in order to be able to create plots zooming into the moment of speed reversal at minimal radius. I found this piece of code here `http://pastebin.com/JvzaaUGm` which served me as a starting point.
+I wanted to create own solution data from a Rayleigh-Plesset equation in order to be able to create plots zooming into the moment of speed reversal at minimal radius. I found [this piece of code](http://pastebin.com/JvzaaUGm) which served me as a starting point.
 
 ## What is the Rayleigh-Plesset equation?
 
@@ -18,7 +18,7 @@ Several different ways of deriving the RP equation are outlined and compared by 
 ## What's interesting about the Rayleigh-Plesset equation?
 Above all, it's the nonlinearity. One can imagine that due to the vapour pressure no real force is needed to enlarge a bubble, but to shrink it beyond the threshold where no more vapour is present means to reduce the space available to the non-condensible gas content, and it is clear that this will let the pressure diverge. Looking at the whole system, one has a large volume of liquid in motion, and when the bubble collapses, the kinetic energy of the heavy liquid in motion is loaded onto the spring of the little amount of gas in the bubble. The result are extraordinary pressure and temerature conditions inside the bubble and immense accelerations in the layers of liquid surrounding it. The adiabatic heating of the bubble content during collapse can even give rise to incandescent plasma, therefore one effect of an acoustically oscillating bubble can be so-called sonoluminescence (SL). In 1993 Löfstedt, Barber & Putterman published an article [2] where they had managed to match simulated RP dynamics with experimental bubble size tracking data.
 
-[1] T. G. Leighton: "Derivation of the Rayleigh-Plesset Equation in Terms of Volume", ISVR Technical Report No. 308, University of Southampton (2007)
+[1] T. G. Leighton: "Derivation of the Rayleigh-Plesset Equation in Terms of Volume", ISVR Technical Report No. 308, University of Southampton (2007) --> [link](https://eprints.soton.ac.uk/45698/)
 
-[2] Ritva Löfstedt, Bradley P. Barber, Seth Putterman: "Toward a hydrodynamic theory of sonoluminescence", Physics of Fluids A: Fluid Dynamics, volume 5 issue 11 pp. 2911-2928 (1993)
+[2] Ritva Löfstedt, Bradley P. Barber, Seth Putterman: "Toward a hydrodynamic theory of sonoluminescence", Physics of Fluids A: Fluid Dynamics, volume 5 issue 11 pp. 2911-2928 (1993) --> [link](http://aip.scitation.org/doi/abs/10.1063/1.858700)
 
