@@ -1,7 +1,7 @@
 # RP_Bubble
-Dynamics of acoustically driven bubbles arising from the Rayleigh-Plesset (RP) equation
+**A minimal Python script for simulating the Rayleigh-Plesset equation**
 
-I wanted to create own solution data from a Rayleigh-Plesset equation in order to be able to create plots zooming into the moment of speed reversal at minimal radius. I found [this piece of code](http://pastebin.com/JvzaaUGm) which served me as a starting point.
+I wanted to create own solution data from a Rayleigh-Plesset (RP) equation in order to be able to create plots zooming into the moment of speed reversal at minimal radius. I found [this piece of code](http://pastebin.com/JvzaaUGm) which served me as a starting point.
 
 ## What is the Rayleigh-Plesset equation?
 
